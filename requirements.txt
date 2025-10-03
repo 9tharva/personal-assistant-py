@@ -1,0 +1,6 @@
+python-dotenv
+SpeechRecognition
+gTTS
+playsound==1.2.2
+openai
+newsapi-python
